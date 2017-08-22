@@ -8,3 +8,4 @@ he answer is yes. If we push the "sync" button on the github desktop, it can syn
 
 
 ### step 2 can we push the code to the github cloud if we use pycharm
+Yes we can ,we need push the "commmit to master " button
