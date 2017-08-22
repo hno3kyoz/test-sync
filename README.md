@@ -11,3 +11,5 @@ he answer is yes. If we push the "sync" button on the github desktop, it can syn
 Yes we can ,we need push the "commmit to master " button
 
 we add "commit to master"
+
+### step 3 we use pycharm directly
